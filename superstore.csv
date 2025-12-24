@@ -1,0 +1,101 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2025-00001,2023-01-01,2023-01-05,First Class,AA-7873,John Doe,Corporate,United States,Chicago,California,80588,Central,FUR-BO-1000001,Technology,Bookcases,Binder D,334.22,1,0.1,116.65
+2,CA-2025-00002,2023-01-02,2023-01-06,Same Day,AA-6675,Jane Smith,Consumer,United States,Chicago,New York,48304,South,FUR-BO-1000002,Furniture,Binders,Bookcase A,128.56,9,0.22,153.39
+3,CA-2025-00003,2023-01-03,2023-01-07,Standard Class,AA-1161,Bob Brown,Corporate,United States,Los Angeles,California,79449,East,FUR-BO-1000003,Furniture,Binders,Phone C,891.62,1,0.14,3.16
+4,CA-2025-00004,2023-01-04,2023-01-08,First Class,AA-5297,Bob Brown,Consumer,United States,Los Angeles,Illinois,92986,West,FUR-BO-1000004,Office Supplies,Chairs,Binder D,597.66,1,0.07,-44.26
+5,CA-2025-00005,2023-01-05,2023-01-09,First Class,AA-1995,Jane Smith,Consumer,United States,Los Angeles,Illinois,99643,West,FUR-BO-1000005,Technology,Binders,Phone C,682.31,7,0.14,233.97
+6,CA-2025-00006,2023-01-06,2023-01-10,Same Day,AA-8629,Alice Johnson,Home Office,United States,New York,New York,30764,South,FUR-BO-1000006,Technology,Phones,Phone C,791.28,2,0.04,293.76
+7,CA-2025-00007,2023-01-07,2023-01-11,Standard Class,AA-2016,Jane Smith,Home Office,United States,Houston,Texas,96027,East,FUR-BO-1000007,Furniture,Binders,Bookcase A,503.46,5,0.05,110.28
+8,CA-2025-00008,2023-01-08,2023-01-12,Standard Class,AA-8869,Alice Johnson,Consumer,United States,New York,New York,48494,East,FUR-BO-1000008,Furniture,Phones,Binder D,96.05,8,0.15,-31.33
+9,CA-2025-00009,2023-01-09,2023-01-13,First Class,AA-7439,John Doe,Consumer,United States,New York,New York,13373,West,FUR-BO-1000009,Office Supplies,Chairs,Chair B,541.74,8,0.13,8.92
+10,CA-2025-00010,2023-01-10,2023-01-14,Second Class,AA-8892,John Doe,Home Office,United States,Chicago,California,22161,Central,FUR-BO-1000010,Office Supplies,Chairs,Bookcase A,590.97,3,0.27,-92.64
+11,CA-2025-00011,2023-01-11,2023-01-15,First Class,AA-7863,John Doe,Home Office,United States,Los Angeles,California,37350,West,FUR-BO-1000011,Technology,Chairs,Chair B,747.99,7,0.11,265.72
+12,CA-2025-00012,2023-01-12,2023-01-16,First Class,AA-8916,Bob Brown,Home Office,United States,Houston,New York,35351,East,FUR-BO-1000012,Technology,Chairs,Phone C,437.34,3,0.17,-52.9
+13,CA-2025-00013,2023-01-13,2023-01-17,First Class,AA-9529,John Doe,Corporate,United States,Chicago,Illinois,98668,South,FUR-BO-1000013,Furniture,Chairs,Phone C,136.3,6,0.19,130.61
+14,CA-2025-00014,2023-01-14,2023-01-18,First Class,AA-1878,Alice Johnson,Consumer,United States,New York,California,25305,West,FUR-BO-1000014,Technology,Phones,Bookcase A,290.94,6,0.0,9.62
+15,CA-2025-00015,2023-01-15,2023-01-19,Same Day,AA-5887,John Doe,Home Office,United States,Los Angeles,Texas,85353,East,FUR-BO-1000015,Office Supplies,Phones,Bookcase A,369.45,3,0.2,121.67
+16,CA-2025-00016,2023-01-16,2023-01-20,Standard Class,AA-5859,Jane Smith,Consumer,United States,Chicago,California,86797,West,FUR-BO-1000016,Office Supplies,Chairs,Chair B,649.46,7,0.05,160.57
+17,CA-2025-00017,2023-01-17,2023-01-21,Same Day,AA-7331,Jane Smith,Corporate,United States,Los Angeles,California,75953,Central,FUR-BO-1000017,Furniture,Binders,Binder D,575.07,3,0.29,231.9
+18,CA-2025-00018,2023-01-18,2023-01-22,Same Day,AA-9571,Bob Brown,Corporate,United States,Chicago,Texas,67458,West,FUR-BO-1000018,Office Supplies,Bookcases,Chair B,362.54,8,0.04,-17.43
+19,CA-2025-00019,2023-01-19,2023-01-23,Same Day,AA-9684,Jane Smith,Home Office,United States,Los Angeles,New York,30358,West,FUR-BO-1000019,Office Supplies,Chairs,Bookcase A,986.65,4,0.12,-95.6
+20,CA-2025-00020,2023-01-20,2023-01-24,First Class,AA-8208,Alice Johnson,Corporate,United States,New York,Texas,13267,East,FUR-BO-1000020,Office Supplies,Binders,Chair B,609.72,1,0.03,-45.25
+21,CA-2025-00021,2023-01-21,2023-01-25,Second Class,AA-6276,John Doe,Consumer,United States,Houston,New York,92745,East,FUR-BO-1000021,Office Supplies,Bookcases,Bookcase A,244.85,4,0.3,260.01
+22,CA-2025-00022,2023-01-22,2023-01-26,Standard Class,AA-3062,Bob Brown,Home Office,United States,New York,New York,99588,East,FUR-BO-1000022,Furniture,Chairs,Chair B,110.76,7,0.15,249.56
+23,CA-2025-00023,2023-01-23,2023-01-27,Second Class,AA-1064,John Doe,Consumer,United States,Houston,New York,48513,West,FUR-BO-1000023,Furniture,Chairs,Bookcase A,161.33,4,0.18,138.97
+24,CA-2025-00024,2023-01-24,2023-01-28,Same Day,AA-9006,John Doe,Consumer,United States,Los Angeles,Texas,36092,Central,FUR-BO-1000024,Technology,Phones,Bookcase A,253.5,6,0.02,140.21
+25,CA-2025-00025,2023-01-25,2023-01-29,Same Day,AA-3568,Alice Johnson,Corporate,United States,Chicago,New York,21338,South,FUR-BO-1000025,Office Supplies,Bookcases,Bookcase A,169.07,9,0.22,166.01
+26,CA-2025-00026,2023-01-26,2023-01-30,Second Class,AA-6463,Jane Smith,Corporate,United States,New York,Illinois,10412,South,FUR-BO-1000026,Technology,Bookcases,Binder D,194.7,1,0.06,-29.85
+27,CA-2025-00027,2023-01-27,2023-01-31,Second Class,AA-3027,Jane Smith,Corporate,United States,Houston,Texas,17543,East,FUR-BO-1000027,Furniture,Binders,Chair B,292.24,5,0.27,265.76
+28,CA-2025-00028,2023-01-28,2023-02-01,Second Class,AA-3695,John Doe,Corporate,United States,New York,Illinois,43496,East,FUR-BO-1000028,Furniture,Phones,Chair B,181.64,7,0.06,67.51
+29,CA-2025-00029,2023-01-29,2023-02-02,Same Day,AA-6258,Bob Brown,Corporate,United States,Houston,New York,70692,West,FUR-BO-1000029,Furniture,Phones,Chair B,897.8,1,0.06,53.26
+30,CA-2025-00030,2023-01-30,2023-02-03,Same Day,AA-6618,Jane Smith,Home Office,United States,New York,California,99084,South,FUR-BO-1000030,Furniture,Phones,Bookcase A,89.43,4,0.01,107.57
+31,CA-2025-00031,2023-01-31,2023-02-04,Standard Class,AA-7736,Bob Brown,Consumer,United States,Houston,New York,54425,East,FUR-BO-1000031,Furniture,Phones,Chair B,529.27,6,0.14,-81.21
+32,CA-2025-00032,2023-02-01,2023-02-05,Standard Class,AA-1391,Jane Smith,Consumer,United States,Houston,Illinois,48756,Central,FUR-BO-1000032,Furniture,Bookcases,Chair B,416.29,2,0.17,-33.49
+33,CA-2025-00033,2023-02-02,2023-02-06,Same Day,AA-6892,Bob Brown,Consumer,United States,Los Angeles,Illinois,28888,Central,FUR-BO-1000033,Furniture,Bookcases,Bookcase A,982.55,5,0.02,195.21
+34,CA-2025-00034,2023-02-03,2023-02-07,Second Class,AA-4561,Alice Johnson,Consumer,United States,Houston,Texas,45735,East,FUR-BO-1000034,Office Supplies,Chairs,Phone C,120.92,1,0.23,-66.88
+35,CA-2025-00035,2023-02-04,2023-02-08,Second Class,AA-7184,Bob Brown,Corporate,United States,Los Angeles,California,57295,East,FUR-BO-1000035,Technology,Chairs,Bookcase A,403.88,6,0.14,141.26
+36,CA-2025-00036,2023-02-05,2023-02-09,Standard Class,AA-4099,Alice Johnson,Consumer,United States,Houston,Texas,93042,South,FUR-BO-1000036,Furniture,Phones,Chair B,969.78,6,0.16,-1.86
+37,CA-2025-00037,2023-02-06,2023-02-10,Same Day,AA-7278,Alice Johnson,Home Office,United States,Chicago,Illinois,95999,South,FUR-BO-1000037,Office Supplies,Phones,Bookcase A,866.85,4,0.13,55.72
+38,CA-2025-00038,2023-02-07,2023-02-11,Standard Class,AA-9392,Bob Brown,Home Office,United States,Chicago,New York,27955,West,FUR-BO-1000038,Office Supplies,Phones,Phone C,818.9,8,0.12,15.48
+39,CA-2025-00039,2023-02-08,2023-02-12,Standard Class,AA-4104,Alice Johnson,Consumer,United States,Chicago,California,47841,South,FUR-BO-1000039,Technology,Chairs,Bookcase A,265.32,4,0.17,42.27
+40,CA-2025-00040,2023-02-09,2023-02-13,First Class,AA-8215,John Doe,Consumer,United States,Houston,New York,80640,Central,FUR-BO-1000040,Furniture,Binders,Chair B,179.18,8,0.05,187.62
+41,CA-2025-00041,2023-02-10,2023-02-14,First Class,AA-3454,Alice Johnson,Home Office,United States,Los Angeles,New York,75510,Central,FUR-BO-1000041,Technology,Binders,Phone C,671.96,8,0.05,18.85
+42,CA-2025-00042,2023-02-11,2023-02-15,First Class,AA-9996,Jane Smith,Home Office,United States,Los Angeles,California,44911,East,FUR-BO-1000042,Furniture,Chairs,Binder D,930.08,5,0.26,126.56
+43,CA-2025-00043,2023-02-12,2023-02-16,Second Class,AA-3731,Bob Brown,Corporate,United States,Houston,Texas,69031,South,FUR-BO-1000043,Office Supplies,Chairs,Chair B,561.2,4,0.28,90.42
+44,CA-2025-00044,2023-02-13,2023-02-17,Same Day,AA-9154,John Doe,Home Office,United States,Chicago,New York,98726,West,FUR-BO-1000044,Office Supplies,Chairs,Phone C,575.9,2,0.11,165.47
+45,CA-2025-00045,2023-02-14,2023-02-18,Same Day,AA-6056,Bob Brown,Corporate,United States,Chicago,Illinois,17357,Central,FUR-BO-1000045,Office Supplies,Chairs,Phone C,287.18,3,0.08,274.73
+46,CA-2025-00046,2023-02-15,2023-02-19,Same Day,AA-9110,Jane Smith,Corporate,United States,Los Angeles,New York,42479,Central,FUR-BO-1000046,Office Supplies,Chairs,Binder D,771.8,3,0.19,193.03
+47,CA-2025-00047,2023-02-16,2023-02-20,Same Day,AA-4840,Jane Smith,Corporate,United States,Chicago,California,71476,West,FUR-BO-1000047,Technology,Chairs,Bookcase A,195.17,4,0.12,-14.02
+48,CA-2025-00048,2023-02-17,2023-02-21,First Class,AA-2028,Jane Smith,Corporate,United States,New York,California,54811,West,FUR-BO-1000048,Furniture,Phones,Bookcase A,330.44,4,0.01,-87.53
+49,CA-2025-00049,2023-02-18,2023-02-22,Second Class,AA-8385,Alice Johnson,Corporate,United States,Los Angeles,California,46208,Central,FUR-BO-1000049,Furniture,Phones,Chair B,431.18,5,0.05,4.91
+50,CA-2025-00050,2023-02-19,2023-02-23,Second Class,AA-1502,Alice Johnson,Consumer,United States,Chicago,Texas,30150,Central,FUR-BO-1000050,Technology,Phones,Binder D,512.53,4,0.21,138.03
+51,CA-2025-00051,2023-02-20,2023-02-24,First Class,AA-7910,Bob Brown,Home Office,United States,Los Angeles,New York,81180,West,FUR-BO-1000051,Furniture,Phones,Bookcase A,249.99,8,0.2,-79.43
+52,CA-2025-00052,2023-02-21,2023-02-25,Second Class,AA-7938,Bob Brown,Corporate,United States,New York,Texas,53286,Central,FUR-BO-1000052,Office Supplies,Chairs,Binder D,123.69,6,0.01,98.55
+53,CA-2025-00053,2023-02-22,2023-02-26,First Class,AA-5488,John Doe,Home Office,United States,Los Angeles,Texas,78450,East,FUR-BO-1000053,Furniture,Binders,Bookcase A,614.51,6,0.07,138.74
+54,CA-2025-00054,2023-02-23,2023-02-27,Same Day,AA-1206,John Doe,Home Office,United States,Los Angeles,California,31352,East,FUR-BO-1000054,Office Supplies,Bookcases,Phone C,295.74,8,0.07,33.7
+55,CA-2025-00055,2023-02-24,2023-02-28,First Class,AA-6134,Bob Brown,Corporate,United States,Los Angeles,California,65069,West,FUR-BO-1000055,Technology,Chairs,Bookcase A,585.43,7,0.2,208.36
+56,CA-2025-00056,2023-02-25,2023-03-01,Same Day,AA-6977,Alice Johnson,Consumer,United States,Los Angeles,Texas,24397,South,FUR-BO-1000056,Furniture,Bookcases,Binder D,162.82,8,0.01,-57.36
+57,CA-2025-00057,2023-02-26,2023-03-02,Same Day,AA-8721,Jane Smith,Corporate,United States,New York,New York,51555,West,FUR-BO-1000057,Technology,Binders,Phone C,486.33,2,0.03,-69.94
+58,CA-2025-00058,2023-02-27,2023-03-03,Standard Class,AA-8035,Bob Brown,Consumer,United States,Houston,Illinois,56959,West,FUR-BO-1000058,Furniture,Phones,Phone C,537.26,9,0.24,191.28
+59,CA-2025-00059,2023-02-28,2023-03-04,First Class,AA-2484,John Doe,Home Office,United States,Los Angeles,Texas,10728,South,FUR-BO-1000059,Office Supplies,Binders,Phone C,61.31,1,0.05,98.2
+60,CA-2025-00060,2023-03-01,2023-03-05,Standard Class,AA-8858,Alice Johnson,Consumer,United States,Los Angeles,New York,60517,South,FUR-BO-1000060,Technology,Chairs,Binder D,343.24,8,0.2,175.36
+61,CA-2025-00061,2023-03-02,2023-03-06,First Class,AA-1863,Bob Brown,Consumer,United States,Chicago,California,76234,South,FUR-BO-1000061,Furniture,Phones,Chair B,143.07,4,0.07,73.93
+62,CA-2025-00062,2023-03-03,2023-03-07,First Class,AA-3790,Bob Brown,Consumer,United States,Los Angeles,California,49954,East,FUR-BO-1000062,Office Supplies,Chairs,Chair B,72.74,4,0.03,-1.44
+63,CA-2025-00063,2023-03-04,2023-03-08,Standard Class,AA-8408,Alice Johnson,Home Office,United States,Chicago,New York,57280,Central,FUR-BO-1000063,Technology,Phones,Chair B,990.06,5,0.07,227.64
+64,CA-2025-00064,2023-03-05,2023-03-09,Standard Class,AA-9755,Bob Brown,Home Office,United States,Houston,Illinois,89459,East,FUR-BO-1000064,Technology,Bookcases,Binder D,329.13,8,0.22,219.77
+65,CA-2025-00065,2023-03-06,2023-03-10,First Class,AA-6116,Alice Johnson,Consumer,United States,New York,California,26779,Central,FUR-BO-1000065,Furniture,Bookcases,Phone C,811.78,5,0.26,177.88
+66,CA-2025-00066,2023-03-07,2023-03-11,Second Class,AA-7019,Jane Smith,Consumer,United States,New York,California,73932,East,FUR-BO-1000066,Furniture,Bookcases,Chair B,262.09,8,0.25,8.86
+67,CA-2025-00067,2023-03-08,2023-03-12,Same Day,AA-2757,Alice Johnson,Corporate,United States,Houston,California,82936,Central,FUR-BO-1000067,Furniture,Binders,Binder D,684.69,1,0.12,136.09
+68,CA-2025-00068,2023-03-09,2023-03-13,Standard Class,AA-8574,Alice Johnson,Consumer,United States,New York,New York,34466,East,FUR-BO-1000068,Office Supplies,Chairs,Chair B,762.63,9,0.2,44.39
+69,CA-2025-00069,2023-03-10,2023-03-14,Same Day,AA-7374,Alice Johnson,Corporate,United States,Houston,Texas,46939,South,FUR-BO-1000069,Furniture,Binders,Bookcase A,599.68,6,0.06,-63.37
+70,CA-2025-00070,2023-03-11,2023-03-15,Second Class,AA-7892,Bob Brown,Consumer,United States,Houston,California,79896,West,FUR-BO-1000070,Technology,Bookcases,Chair B,476.86,3,0.09,266.93
+71,CA-2025-00071,2023-03-12,2023-03-16,Second Class,AA-2678,Bob Brown,Corporate,United States,Houston,Texas,45270,East,FUR-BO-1000071,Technology,Chairs,Chair B,417.72,8,0.27,-45.27
+72,CA-2025-00072,2023-03-13,2023-03-17,Second Class,AA-4242,Alice Johnson,Home Office,United States,New York,Illinois,69163,Central,FUR-BO-1000072,Furniture,Bookcases,Phone C,355.38,9,0.0,280.09
+73,CA-2025-00073,2023-03-14,2023-03-18,Standard Class,AA-5636,Bob Brown,Consumer,United States,Chicago,California,92637,South,FUR-BO-1000073,Furniture,Binders,Binder D,930.23,6,0.03,78.4
+74,CA-2025-00074,2023-03-15,2023-03-19,Standard Class,AA-2059,John Doe,Consumer,United States,Houston,California,61934,East,FUR-BO-1000074,Technology,Binders,Phone C,832.31,7,0.06,-25.95
+75,CA-2025-00075,2023-03-16,2023-03-20,Standard Class,AA-7668,John Doe,Consumer,United States,Los Angeles,Illinois,74895,East,FUR-BO-1000075,Office Supplies,Binders,Phone C,965.38,1,0.01,116.76
+76,CA-2025-00076,2023-03-17,2023-03-21,Second Class,AA-4157,Bob Brown,Consumer,United States,New York,California,42307,South,FUR-BO-1000076,Furniture,Bookcases,Phone C,133.05,5,0.05,249.18
+77,CA-2025-00077,2023-03-18,2023-03-22,Same Day,AA-6915,Bob Brown,Corporate,United States,Houston,Texas,64098,East,FUR-BO-1000077,Furniture,Chairs,Phone C,733.56,5,0.17,192.89
+78,CA-2025-00078,2023-03-19,2023-03-23,Same Day,AA-3693,Alice Johnson,Consumer,United States,Houston,New York,70921,West,FUR-BO-1000078,Technology,Chairs,Phone C,938.96,4,0.13,222.62
+79,CA-2025-00079,2023-03-20,2023-03-24,First Class,AA-4627,Jane Smith,Home Office,United States,Los Angeles,Texas,15486,East,FUR-BO-1000079,Furniture,Bookcases,Chair B,189.42,6,0.27,163.51
+80,CA-2025-00080,2023-03-21,2023-03-25,Same Day,AA-6450,Bob Brown,Home Office,United States,Chicago,New York,18335,West,FUR-BO-1000080,Office Supplies,Chairs,Phone C,75.83,7,0.25,176.91
+81,CA-2025-00081,2023-03-22,2023-03-26,First Class,AA-2663,John Doe,Consumer,United States,Chicago,New York,96900,West,FUR-BO-1000081,Technology,Bookcases,Phone C,743.71,9,0.1,239.68
+82,CA-2025-00082,2023-03-23,2023-03-27,Same Day,AA-6592,Alice Johnson,Home Office,United States,Chicago,Texas,99112,South,FUR-BO-1000082,Furniture,Chairs,Binder D,578.73,1,0.08,-0.13
+83,CA-2025-00083,2023-03-24,2023-03-28,Standard Class,AA-8392,Bob Brown,Consumer,United States,Houston,Texas,21130,East,FUR-BO-1000083,Technology,Phones,Bookcase A,843.41,6,0.11,95.77
+84,CA-2025-00084,2023-03-25,2023-03-29,Same Day,AA-2306,John Doe,Consumer,United States,Houston,Texas,97508,South,FUR-BO-1000084,Furniture,Phones,Chair B,148.37,7,0.18,-11.52
+85,CA-2025-00085,2023-03-26,2023-03-30,First Class,AA-7776,John Doe,Home Office,United States,Houston,Texas,70566,East,FUR-BO-1000085,Furniture,Binders,Chair B,797.31,3,0.08,295.07
+86,CA-2025-00086,2023-03-27,2023-03-31,First Class,AA-6864,Jane Smith,Consumer,United States,New York,Illinois,76703,East,FUR-BO-1000086,Furniture,Phones,Chair B,209.61,8,0.19,277.62
+87,CA-2025-00087,2023-03-28,2023-04-01,Second Class,AA-8526,Alice Johnson,Home Office,United States,Los Angeles,California,37192,Central,FUR-BO-1000087,Office Supplies,Phones,Phone C,172.02,5,0.12,-84.23
+88,CA-2025-00088,2023-03-29,2023-04-02,Standard Class,AA-9901,Alice Johnson,Corporate,United States,Houston,New York,11062,East,FUR-BO-1000088,Office Supplies,Phones,Phone C,172.62,9,0.17,182.23
+89,CA-2025-00089,2023-03-30,2023-04-03,Same Day,AA-6575,Jane Smith,Consumer,United States,Los Angeles,Texas,94076,South,FUR-BO-1000089,Technology,Bookcases,Phone C,816.43,5,0.13,270.1
+90,CA-2025-00090,2023-03-31,2023-04-04,Second Class,AA-6530,Jane Smith,Corporate,United States,Los Angeles,Texas,99780,West,FUR-BO-1000090,Furniture,Phones,Binder D,668.55,9,0.09,-27.77
+91,CA-2025-00091,2023-04-01,2023-04-05,Same Day,AA-5413,Alice Johnson,Home Office,United States,Chicago,Texas,31545,East,FUR-BO-1000091,Furniture,Phones,Bookcase A,527.83,4,0.28,127.18
+92,CA-2025-00092,2023-04-02,2023-04-06,Same Day,AA-4748,Alice Johnson,Corporate,United States,New York,Illinois,31689,Central,FUR-BO-1000092,Office Supplies,Binders,Phone C,365.24,9,0.23,266.2
+93,CA-2025-00093,2023-04-03,2023-04-07,Second Class,AA-1663,Bob Brown,Corporate,United States,Houston,Texas,21174,South,FUR-BO-1000093,Furniture,Phones,Bookcase A,878.43,5,0.04,-86.42
+94,CA-2025-00094,2023-04-04,2023-04-08,Second Class,AA-2998,Bob Brown,Home Office,United States,Chicago,Texas,98461,East,FUR-BO-1000094,Office Supplies,Phones,Binder D,398.52,9,0.26,178.97
+95,CA-2025-00095,2023-04-05,2023-04-09,Second Class,AA-8994,Jane Smith,Corporate,United States,Chicago,Texas,19348,South,FUR-BO-1000095,Furniture,Chairs,Chair B,818.43,3,0.15,18.94
+96,CA-2025-00096,2023-04-06,2023-04-10,Second Class,AA-2495,Bob Brown,Corporate,United States,Houston,California,33714,Central,FUR-BO-1000096,Technology,Binders,Phone C,444.74,4,0.27,269.76
+97,CA-2025-00097,2023-04-07,2023-04-11,Second Class,AA-4304,John Doe,Home Office,United States,Los Angeles,Illinois,48102,Central,FUR-BO-1000097,Furniture,Binders,Bookcase A,383.17,9,0.24,288.42
+98,CA-2025-00098,2023-04-08,2023-04-12,Same Day,AA-4763,Bob Brown,Corporate,United States,Chicago,Texas,84460,South,FUR-BO-1000098,Furniture,Binders,Bookcase A,468.05,6,0.13,277.71
+99,CA-2025-00099,2023-04-09,2023-04-13,Second Class,AA-6232,Bob Brown,Home Office,United States,Los Angeles,New York,99930,East,FUR-BO-1000099,Office Supplies,Binders,Phone C,308.36,2,0.01,89.69
+100,CA-2025-00100,2023-04-10,2023-04-14,Standard Class,AA-2853,John Doe,Corporate,United States,New York,New York,16801,West,FUR-BO-1000100,Furniture,Binders,Chair B,750.13,7,0.08,244.82
